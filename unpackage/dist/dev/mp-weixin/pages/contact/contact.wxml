@@ -1,0 +1,1 @@
+<view class="contact"><image class="img" src="../../static/R-C.jpg"></image><view class="info"><view data-event-opts="{{[['tap',[['phone',['$event']]]]]}}" bindtap="__e">联系电话：15898551576（点击拨打）</view><view>联系地址：湖南省长沙市天心区韶山南路498号中南林业科技大学</view></view><map scale="{{scale}}" longitude="{{longitude}}" latitude="{{latitude}}" markers="{{markers}}"></map></view>

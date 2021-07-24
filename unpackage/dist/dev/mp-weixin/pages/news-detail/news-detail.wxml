@@ -1,0 +1,1 @@
+<web-view src="{{news[id].url}}"></web-view>
